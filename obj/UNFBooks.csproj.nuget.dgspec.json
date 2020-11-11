@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< Updated upstream
+    "C:\\Users\\Diana\\source\\repos\\UNFBooks\\UNFBooks\\UNFBooks.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Diana\\source\\repos\\UNFBooks\\UNFBooks\\UNFBooks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diana\\source\\repos\\UNFBooks\\UNFBooks\\UNFBooks.csproj",
+        "projectName": "UNFBooks",
+        "projectPath": "C:\\Users\\Diana\\source\\repos\\UNFBooks\\UNFBooks\\UNFBooks.csproj",
+        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diana\\source\\repos\\UNFBooks\\UNFBooks\\obj\\",
+=======
+    "C:\\Users\\Celine\\Source\\Repos\\s10138550\\Database-Front-End\\UNFBooks\\UNFBooks\\UNFBooks.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Celine\\Source\\Repos\\s10138550\\Database-Front-End\\UNFBooks\\UNFBooks\\UNFBooks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Celine\\Source\\Repos\\s10138550\\Database-Front-End\\UNFBooks\\UNFBooks\\UNFBooks.csproj",
+        "projectName": "UNFBooks",
+        "projectPath": "C:\\Users\\Celine\\Source\\Repos\\s10138550\\Database-Front-End\\UNFBooks\\UNFBooks\\UNFBooks.csproj",
+        "packagesPath": "C:\\Users\\Celine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Celine\\Source\\Repos\\s10138550\\Database-Front-End\\UNFBooks\\UNFBooks\\obj\\",
+>>>>>>> Stashed changes
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Celine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+<<<<<<< Updated upstream
+=======
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+>>>>>>> Stashed changes
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
